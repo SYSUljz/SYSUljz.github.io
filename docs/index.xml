@@ -6,8 +6,15 @@
     <description>Recent content on My Technical Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 10:31:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 12:00:00 +0800</lastBuildDate>
     <atom:link href="https://SYSUljz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use This Hugo Blog Project</title>
+      <link>https://SYSUljz.github.io/posts/how-to-use-this-blog/</link>
+      <pubDate>Wed, 25 Jun 2025 12:00:00 +0800</pubDate>
+      <guid>https://SYSUljz.github.io/posts/how-to-use-this-blog/</guid>
+      <description>&lt;p&gt;Welcome to your new Hugo-powered technical blog! This article will help you get started:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-writing-blog-posts-in-markdown&#34;&gt;1. Writing Blog Posts in Markdown&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;All your posts go in the &lt;code&gt;content/posts/&lt;/code&gt; directory.&lt;/li&gt;&#xA;&lt;li&gt;Use the command:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;hugo new posts/my-new-post.md&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- Edit the generated Markdown file. Set `draft: false` in the front matter to publish.&#xA;&#xA;## 2. Running the Local Server&#xA;- Start the server with:&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;hugo server -D&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- Visit [http://localhost:1313](http://localhost:1313) to preview your site.&#xA;&#xA;## 3. Customizing Your Site&#xA;- Edit `hugo.toml` for site settings.&#xA;- Change the theme or configure Ananke as you like.&#xA;&#xA;## 4. Publishing&#xA;- Run `hugo` to generate the static site in the `public/` folder.&#xA;- Deploy the contents of `public/` to your web host or GitHub Pages.&#xA;&#xA;Happy blogging!&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     <item>
       <title>First Steps</title>
       <link>https://SYSUljz.github.io/posts/first-steps/</link>
