@@ -1,0 +1,6 @@
+baseURL = 'https://SYSUljz.github.io/'
+languageCode = 'en-us'
+title = 'My Technical Blog'
+theme = 'ananke'
+
+# Note: Remember to set the baseURL to your GitHub Pages URL. Replace 'yourusername' with your actual GitHub username.
